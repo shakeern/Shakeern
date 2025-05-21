@@ -10,6 +10,7 @@
   <img src="wavegif.gif" width="40"/>
 </h1>
 
+<h4 align="center">4th Year Computer Science Student at Toronto Metropolitan University 🏫</h4>
 <h4 align="center">Software Developer based in Toronto 📍</h4>
 
 **💻 Work experience:**
