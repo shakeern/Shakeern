@@ -26,8 +26,8 @@
 **🧠 Tech I use:**
 
 - **Languages:** Python, Java, JavaScript, C++
-- **Frameworks/Libraries:** React.js, Express.js, Pandas, NumPy, Scikit-learn
-- **Backend/Tools:** Node.js, SQL, Git, MongoDB, AWS
+- **Frameworks/Libraries:** React.js, Express.js, Quarkus, Pandas, NumPy, Scikit-learn
+- **Backend/Tools:** Node.js, SQL, Git, MongoDB, AWS, Maven
 
 
 
