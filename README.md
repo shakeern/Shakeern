@@ -29,6 +29,11 @@
 - **Frameworks/Libraries:** React.js, Express.js, Pandas, NumPy, Scikit-learn
 - **Backend/Tools:** Node.js, SQL, Git, MongoDB, AWS
 
+
+
+
+**🔗 Connect With Me:**
+
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakeer-nawaz/)
