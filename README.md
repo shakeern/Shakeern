@@ -14,7 +14,7 @@
 
 **💻 Work experience:**
 
-- **Current Role: Software Developer @ Ministry of Public and Business Service Delivery (Procurement Division)**
+- **Current Role: Software Developer @ Ministry of Public and Business Service Delivery (Payments & Registration)**
 - **Previous Role: QA Analyst Co-op @ theScore**
 
 **🌱 Interests:**
